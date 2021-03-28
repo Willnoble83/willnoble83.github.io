@@ -1,13 +1,13 @@
 docs:
  - title: Home
-   url: {{ site.root }}
+   url: www.willnobledev.co.uk
    
  - title: About Me
-   url: {{ site.root }}/about.html
+   url: www.willnobledev.co.uk/about.html
  
  - title: Blog
-   url: {{ site.root }}/blog.html
+   url: www.willnobledev.co.uk/blog.html
  
  - title: Projects
-   url: {{ site.root }}/projects.html
+   url: www.willnobledev.co.uk/projects.html
 
