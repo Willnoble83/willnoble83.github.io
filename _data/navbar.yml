@@ -1,13 +1,13 @@
 docs:
  - title: Home
-   url: index.html
+   url: {{ site.root }}
    
  - title: About Me
-   url: about.html
+   url: {{ site.root }}/about.html
  
  - title: Blog
-   url: blog.html
+   url: {{ site.root }}/blog.html
  
  - title: Projects
-   url: projects.html
+   url: {{ site.root }}/projects.html
 
