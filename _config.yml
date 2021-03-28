@@ -1,6 +1,9 @@
+{% include /
 theme: jekyll-theme-cayman
 title: Welcome to William's Portfolio
 description: Feel free to look around and drop me an email if anything im doing sounds interesting to you!
+include:
+	- _pages
 header_pages:
-	- index.md
-    - about.md
+	- _pages/index.md
+    - _pages/about.md
