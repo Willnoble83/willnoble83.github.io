@@ -1,6 +1,6 @@
 ---
 layout: default
-Title: PRojects
+Title: Projects
 ---
 
 <center>
