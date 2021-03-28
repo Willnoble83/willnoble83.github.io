@@ -3,6 +3,15 @@ layout: default
 Title: Blog
 ---
 
+<center>
+	//
+   {% for item in site.data.navbar.docs %}
+	  
+      <a href="{{ item.url }}">{{ item.title }}</a>
+	   //
+   {% endfor %}
+</center>
+
 <h1>Latest Posts</h1>
 
 <ul>

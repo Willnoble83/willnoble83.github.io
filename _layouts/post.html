@@ -3,6 +3,15 @@ layout: default
 categories: general
 ---
 
+<center>
+	//
+   {% for item in site.data.navbar.docs %}
+	  
+      <a href="{{ item.url }}">{{ item.title }}</a>
+	   //
+   {% endfor %}
+</center>
+
 <h1> {{ page.title }} </h1>
 <p>{{ page.date | date_to_string}} - {{ page.author}}</p>
 <p> Categories: {{ page.categories }} </p>

@@ -2,6 +2,15 @@
 layout: default
 ---
 
+<center>
+	//
+   {% for item in site.data.navbar.docs %}
+	  
+      <a href="{{ item.url }}">{{ item.title }}</a>
+	   //
+   {% endfor %}
+</center>
+
 <h1> {{ page.title }} </h1>
 <img src= " {{ page.image }} " width="350" height="350">
 
