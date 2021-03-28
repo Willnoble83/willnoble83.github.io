@@ -5,5 +5,9 @@ docs:
  - title: About Me
    url: about.html
  
+  - title: Blog
+    url: blog.html
+ 
  - title: Projects
    url: projects.html
+
