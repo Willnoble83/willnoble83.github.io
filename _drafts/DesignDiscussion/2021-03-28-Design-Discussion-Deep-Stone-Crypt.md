@@ -29,6 +29,4 @@ The Deep Stone Crypt opened on the 21st November 2020. The Destiny 2 community r
 
 Bungie <a href="www.https://www.bungie.net/en/Explore/Detail/News/50141"> released a deep dive into the development of the Deep Stone Crypt </a>. In this deep dive they shared some of their insights into the development. In this deep dive they talked about how they had imagined "a high-speed Sparrow sprint across the snowy plains of europa". However this idea was only a foundation and needed some extra layers on top of it. The idea they decided on was the safe spots. But what other ideas could have been used?
 
-One idea I can initially think of is having to navigate a much more rocky terrain where instead the terrain provides this cover. This could provide cover in various directions and instead have more randomised 
-
-
+One idea I can initially think of is having to navigate a much more rocky terrain where instead the terrain provides this cover. This could provide cover in various directions and instead have more randomised
