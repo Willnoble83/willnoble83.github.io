@@ -1,0 +1,9 @@
+docs:
+ - title: Home
+   url: index.md
+   
+ - title: About Me
+   url: _pages/about.md
+ 
+ - title: Projects
+   url: _pages/projects.md
