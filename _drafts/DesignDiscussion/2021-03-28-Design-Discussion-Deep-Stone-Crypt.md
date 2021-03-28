@@ -16,9 +16,9 @@ To start with lets talk about Destiny 2. Destiny 2 is a first person action MMO 
 
 ### Beyond Light
 
-Destiny 2: Beyond Light launched in November 2020. It featured the new planet, Europa and a returning destination in the Cosmodrome, returning from Destiny 1.
-
+Destiny 2: Beyond Light launched in November 2020. It featured the new planet, Europa and a returning destination in the Cosmodrome, returning from Destiny 1. It also featured a new raid based in the Deep Stone Crypt. Birthplace of the Exos a major race in Destiny 2 and constantly discussed in the background and lore books.
 
 
 # The Deep Stone Crypt: Before Beyond Light #
 
+![Deep Stone Crypt Concept Art](/assets/images/DesignDiscussion/DSC/dscconceptart.jpg)
