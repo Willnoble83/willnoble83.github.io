@@ -3,6 +3,13 @@ layout: project
 title: Wish of the Darkness Raid Design
 category: WishoftheDarkness
 image: /assets/images/projects/wishofthedarkness/logo.png
+published: true
+---
+---
+layout: project
+title: Wish of the Darkness Raid Design
+category: WishOfTheDarkness
+image: /assets/images/projects/wishofthedarkness/logo.png
 ---
 
 Wish of the Darkness is my raid design, intending to provide a true pinnacle challenge to Destiny 2. This raid design takes much more mechanics out of a typical MMO like World of Warcraft and attempts to apply them into a Destiny 2 raid.
