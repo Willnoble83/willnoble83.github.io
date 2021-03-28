@@ -12,12 +12,13 @@ Title: Projects
    {% endfor %}
 </center>
 
-<h1>Latest Posts</h1>
+<h1>Projects</h1>
 
 <ul>
   {% for project in site.projects %}
     <li>
       <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
+	  <p>{{ project.excerpt }} </p>
     </li>
   {% endfor %}
 </ul>
