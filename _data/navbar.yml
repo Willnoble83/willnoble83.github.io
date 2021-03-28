@@ -1,13 +1,13 @@
 docs:
  - title: Home
-   url: www.willnobledev.co.uk
+   url: /
    
  - title: About Me
-   url: www.willnobledev.co.uk/about.html
+   url: /about.html
  
  - title: Blog
-   url: www.willnobledev.co.uk/blog.html
+   url: /blog.html
  
  - title: Projects
-   url: www.willnobledev.co.uk/projects.html
+   url: /projects.html
 
