@@ -1,9 +1,9 @@
 docs:
  - title: Home
-   url: index.md
+   url: index.html
    
  - title: About Me
-   url: _pages/about.md
+   url: about.html
  
  - title: Projects
-   url: _pages/projects.md
+   url: projects.html
