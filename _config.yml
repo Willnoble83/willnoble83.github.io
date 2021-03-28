@@ -1,9 +1,12 @@
 theme: jekyll-theme-cayman
 title: Welcome to William's Portfolio
 description: Feel free to look around and drop me an email if anything im doing sounds interesting to you!
-root: index.md
-include:
- - _pages
-header_pages:
- - _pages/index.md
- - _pages/about.md
+root: /
+
+collections:
+ projects:
+  output: true
+  permalink: /:collection/:name
+
+ 
+ 
