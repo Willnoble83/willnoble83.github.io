@@ -3,6 +3,9 @@ layout: project
 title: Spaceman Scramble
 category: SpacemanScramble
 image: /assets/images/projects/spacemanscramble/logo.png
+published: true
+imagewidth: 350
+imageheight: 350
 ---
 
 Spaceman Scramble is a 3rd person Party Platformer game. Where players can place platforms, traps and all kinds of other items into the level before having to race to make it to the end. Players can play in four different levels with a general range of props and a unique set of props for each level. Each level also has its own unique mechanic and level features.
