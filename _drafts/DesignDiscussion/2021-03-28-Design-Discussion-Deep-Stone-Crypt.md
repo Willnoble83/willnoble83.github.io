@@ -76,7 +76,7 @@ Players will leave the crypt security room and progress deeper into the crypt. T
 ![Deep Stone Crypt: Deep Stone Crypt Orbital Platform](/assets/images/designdiscussion/dsc/DSCAtraks1SpaceRoom.jpg)
 _Deep Stone Crypt: Deep Stone Crypt Orbital Platform - Source: https://www.pcgamesn.com/destiny-2/beyond-light-raid-deep-stone-crypt_
 
-# Encounter Mechanics
+### Encounter Mechanics
 
 The goal of this encounter is to ultimately, defeat Atraks-1. However there are many clones of him and a lot more happening then meets the eye. In this encounter there are two rooms, Ground & Space. There are clones of Atraks in both the ground & space room. The ground room will have the operator buff drop and the space room will have the scanner buff drop. There are terminals in both rooms so the space team usually will wait for the operator buff to drop so they can pick it up and head to the space room. Servitors will spawn in both rooms and these must be killed. The buff holding enemy spawns typically when the servitors spawn in their respective rooms. 
 
@@ -90,26 +90,18 @@ When an Atraks-1 clone is destroyed, he will drop a debuff called Atraks-1 Repli
 Players will repeat this till Atraks-1 is reduced to around 15% health. When this happens the operator must shoot all the pods that are upstairs to send them down so the ground team can come to the space platform. The clones in the ground room will teleport to the space room. Once everyone is present in the space room all the clones will start channeling a wipe attack. The scanner must call the correct clone to kill. This is repeated again almost immediately until the boss dies or the raid will wipe to the Atraks-1 Replication debuff.
 
 
-# Encounter Evaluation
+### Encounter Evaluation
 
-To kickstart the evaluation of this encounter. I want to start with saying this encounter is probably the most unique encounter that has existed inside a destiny raid. It breaks a somewhat consistent formula that has been present throughout destiny 2 of 'do something then damage' where players are almost having to consistently do damage in short burst phases while also juggling other mechanics. This encounter broke a trend among destiny raids where the boss has mechanics up until the damage phase where all threatening mechanics end and its just shoot the boss. This encounter on day one of the raid releasing was everything a raid encounter should be, requriring optimised damage from players as well as quite heavy co-ordination to ensure debuffs are managed correctly. This encounter also broke the trend of the end boss usually being the main wall of a raid. Atraks-1 actually ended up being a bigger wall to most raid teams then Taniks as the final boss. To summarise: This encounter was a phenomenal day 1 experience and something as a destiny player I would personally love to see more of.
+To kickstart the evaluation of this encounter. I want to start with saying this encounter is probably the most unique encounter that has existed inside a destiny raid. It breaks a somewhat consistent formula that has been present throughout destiny 2 of 'do something then damage with minimal things happening'. In this encounter, players are  having to almost consistently do damage in short burst phases while also juggling other mechanics. This encounter broke a trend among destiny raids where a boss has mechanics up until the damage phase where all threatening meDeepchanics end and its just shoot the boss. This encounter on day one of the raid releasing was everything a raid encounter should be, requriring optimised damage from players as well as quite heavy co-ordination to ensure debuffs are managed correctly. This encounter also broke the trend of the end boss usually being the main wall of a raid. Atraks-1 actually ended up being a bigger wall to most raid teams then Taniks as the final boss. To summarise: This encounter was a phenomenal day 1 experience and something as a destiny player I would personally love to see more of.
 
-However, all good sides must have a downside and unfortunately, Atraks-1 post day one falls victim to a common issue destiny raids face of overlevelling causing the encounter to be trivialised. This is also partially to an exotic weapon that released after the raid's first completion. The Lament absolutely trivialises this boss and does insane damage which unfortunately means the replayability difficulty of this encounter is very low compared to how promising it seemed on Day one. I do believe this is more a victim of the general sandbox design where being under levelled is slightly too punishing in terms of damage dealt where boss hp can't be increased anymore as players already push enrage during the first day. This is something I believe could be fixed with an adjustment to the under-power scaling to increase damage dealt to allow general enemy health to be increased in a proportionate fasion. This would nerf players increasing the difficulty of what it takes to easily kill a boss like this on repeat raids but also maintaining the day one difficulty.
+However, all good sides must have a downside and unfortunately, Atraks-1 post day one falls victim to a common issue destiny raids face of overlevelling causing the encounter to be much easier. This is also the partial fault of an exotic weapon that released after the raid's first completion. The Lament absolutely trivialises this boss and does insane damage which unfortunately means the replayability difficulty of this encounter is very low compared to how difficult it seemed on Day one. I do believe this is more a victim of the general sandbox design where being under levelled is slightly too punishing in terms of damage dealt where boss hp can't be increased anymore as players already push enrage during the first day. This is something I believe could be fixed with an adjustment to the under-power scaling to increase damage dealt to allow general enemy health to be increased in a proportionate fasion. This would nerf players increasing the difficulty of what it takes to easily kill a boss like this on repeat raids while also maintaining the day one difficulty.
 
+# Deep Stone Crypt: The Spacewalk #
 
+![Deep Stone Crypt: The Spacewalk](/assets/images/designdiscussion/dsc/DSCSpaceWalk.jpg)
+_Deep Stone Crypt: Space Walk Jumping Puzzle - Source: https://www.pcgamesn.com/destiny-2/beyond-light-raid-deep-stone-crypt_
 
-
-
-
-
-
-
-
-
-
-
-
-
+(% include youtubeplayer.html id=qBIJFTPPp-8" %}
 
 
 
