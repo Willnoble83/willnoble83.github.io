@@ -22,7 +22,7 @@ ___
 <h2>{{ page.title }} News </h2>
 
 {% for post in site.posts %}
-{% if post.category contains " {{page.category}}" %}
+{% if post.category == project.category %}
  <li>{{ post.title }}</li>
 {% endif %}
 {% endfor %}
