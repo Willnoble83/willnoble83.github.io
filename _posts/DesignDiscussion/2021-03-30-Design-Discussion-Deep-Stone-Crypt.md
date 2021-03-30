@@ -102,6 +102,3 @@ However, all good sides must have a downside and unfortunately, Atraks-1 post da
 _Deep Stone Crypt: Space Walk Jumping Puzzle - Source: https://www.pcgamesn.com/destiny-2/beyond-light-raid-deep-stone-crypt_
 
 (% include youtubeplayer.html id=qBIJFTPPp-8" %}
-
-
-
