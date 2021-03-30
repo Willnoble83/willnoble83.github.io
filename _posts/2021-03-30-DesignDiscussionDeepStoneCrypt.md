@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 Welcome to my first Design Discussion. A series of posts where I will be looking at the designs surrounding various activities and games and evaluating these and discussing areas I recognise for improvement. This will start with discussing the general raid and its introduction and then discussing each encounter's mechanics and then discussing various aspects of its design as well as some problems and how I would potentially fix these.
 
