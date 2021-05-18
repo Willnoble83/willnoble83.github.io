@@ -12,7 +12,7 @@ Spaceman Scramble is a 3rd person Party Platformer game. Where players can place
 
 Spaceman Scramble is a multiplayer game being created as part of a multi-disicpline team including collaboration with other programmers and artists.
 
-My role in Spaceman Scramble involved managing the programmers in the team as well as serving as the main creative director for the game. I have also contributed to various aspects of development from systems through to different props available in the game.
+My role in Spaceman Scramble involved managing the programmers in the team as well as serving as the main creative director for the game. I have also contributed to various aspects of development from systems through to different props available in the game. My main focus for development was assisting in networked aspects of the game and fixing network glitches.
 
 Spaceman Scramble is now available to the public! You can find the game on Itch.io here: https://shayyp.itch.io/spaceman-scramble. Please read the description as some extra setup is required to host a game.
 
