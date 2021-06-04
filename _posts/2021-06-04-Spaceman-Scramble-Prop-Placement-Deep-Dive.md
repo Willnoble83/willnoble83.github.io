@@ -31,7 +31,7 @@ So, with the feedback received, it was time to start looking up solutions. A few
 
 Moving forward with version 2, I decided to look at freeing the camera from the grid to give the player more control. This also allowed me to let the player see more of the map so they would be able to find their bearings easier. The resulting system meant the player was able to freely move their prop while deciding where to place it, and could preview where in the grid it would lock to by pressing right click. Then they could confirm their position by pressing left click. This system is visible in the video below.
 
-{ % include youtubeplayer.html id=Bp9WpFFwxW4 % }
+{% include youtubeplayer.html id=Bp9WpFFwxW4 %}
 
 ### Feedback
 
@@ -45,7 +45,7 @@ The feedback showed that there was a crucial problem in the system. Testers did 
 
 Version 3 was now introduced. Version 3 offered the same free cam movement that Version 2 offered however now removed the restriction to lock the prop to the grid. This version had one restriction where props still had to be rotated in 90 degree increments however this was something that was planned to be removed in the next iteration. Version 3 can be seen below.
 
-{ % include youtubeplayer.html id=IcOmbnJMNTM % }
+{% include youtubeplayer.html id=IcOmbnJMNTM %}
 
 ### Feedback
 
@@ -55,7 +55,7 @@ Testers responded very positively to this iteration of the system. The freedom t
 
 Version 4 was an iteration that featured only the change to the rotation to allow players to rotate a prop along the one axis freely. This can be seen below.
 
-{ % include youtubeplayer.html id=C7hX3GeTH30 % }
+{% include youtubeplayer.html id=C7hX3GeTH30 %}
 
 ### Feedback
 
@@ -69,7 +69,7 @@ We looked at this feedback and wondered how to address this. Some testers loved 
 
 Version 5 was the version we shipped with our release. This featured the rotations working on 5 degree increments as well as adding a new rotation axis. This is visible below.
 
-{ % include youtubeplayer.html id=BpyVyA55eHk % }
+{% include youtubeplayer.html id=BpyVyA55eHk %}
 
 ### Feedback
 
