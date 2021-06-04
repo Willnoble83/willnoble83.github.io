@@ -23,6 +23,6 @@ ___
 
 {% for post in site.posts %}
 {% if post.category == project.category %}
- <li>{{ post.title }}</li>
+ <a href="{{ post.url }} "> {{ post.title }}</a>
 {% endif %}
 {% endfor %}
