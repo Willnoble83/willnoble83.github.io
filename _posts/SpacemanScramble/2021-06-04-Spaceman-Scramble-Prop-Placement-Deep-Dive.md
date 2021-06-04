@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Spaceman Scramble: Prop Placement System Evolution"
+Category: Spaceman Scramble
 ---
 
 # Welcome to deep dives
