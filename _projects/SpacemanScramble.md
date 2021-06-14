@@ -16,6 +16,10 @@ My role in Spaceman Scramble involved managing the programmers in the team as we
 
 Spaceman Scramble is now available to the public! You can find the game on Itch.io here: https://shayyp.itch.io/spaceman-scramble. Please read the description as some extra setup is required to host a game.
 
-There is currently a plan to develop Spaceman Scramble further however concrete plans of what will be updated are not yet to be confirmed.
+# Media
+
+## Spaceman Scramble Trailer
+
+{% include youtubeplayer.html id="O4chwQpSZxA" %}
 
 
