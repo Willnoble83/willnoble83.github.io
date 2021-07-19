@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Colony Development: Needs and Job system prototype complete"
-Category: Colony
+Categories: Colony
 ---
 
 Welcome to my first development update regarding Colony, I'll be talking about what has been achieved over the last week as well as showing off a small bit of video of the systems at work.

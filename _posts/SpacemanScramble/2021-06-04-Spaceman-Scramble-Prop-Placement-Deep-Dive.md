@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spaceman Scramble: Prop Placement System Evolution"
-Category: Spaceman Scramble
+Categores: Spaceman Scramble
 excerpt: Looking into the evolution of the Prop Placement System in Spaceman Scramble
 ---
 
