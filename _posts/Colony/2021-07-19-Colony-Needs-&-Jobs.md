@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Colony Development: Needs and Job system prototype complete"
+title: "Colony Development: Needs and Job system"
 Categories: Colony
 ---
 
