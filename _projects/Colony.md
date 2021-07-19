@@ -12,6 +12,11 @@ Colony is a colony management game I am working on. It will work in a full 3D sp
 
 Colony is currently being developed by me alone inside of Unreal Engine 4 primarily in C++. The sourcecode is publicly available to be viewed here: https://github.com/Willnoble83/Colony
 
-The game is currently in very early development and in the future progress pictures and videos will be shared on my blog and also on my twitter ( https://twitter.com/WillNobleDev ) and linkedin ( https://www.linkedin.com/in/william-noble-2a9321202/ )
+The game is currently in very early development and in the future progress pictures and videos will be shared on my twitter ( https://twitter.com/WillNobleDev ) and linkedin ( https://www.linkedin.com/in/william-noble-2a9321202/ ). This page will also be updated with any major updates.
 
 
+# Media
+
+## First Development Update - Jobs and need system prototype complete as well as idle AI
+
+{% include youtubeplayer.html id="MoWg7ZWwgDo" %}
