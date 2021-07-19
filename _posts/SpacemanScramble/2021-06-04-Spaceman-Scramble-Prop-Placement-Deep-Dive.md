@@ -2,13 +2,10 @@
 layout: post
 title: "Spaceman Scramble: Prop Placement System Evolution"
 Category: Spaceman Scramble
+excerpt: Looking into the evolution of the Prop Placement System in Spaceman Scramble
 ---
 
-# Welcome to deep dives
-
-What is deep dives you may be asking yourself? Well Deep Dives is where I will be looking at elements of my own projects or of other games to look at how they work and if possible, how they have evolved.
-
-For the first post, we'll be taking a look at my first released project, 'Spaceman Scramble'. If you don't know what Spaceman Scramble is, you can find more information [here](https://www.willnobledev.co.uk/projects/spacemanscramble). We'll be taking a look at how the prop placement system evolved today.
+Today i'll be taking a look at my first released project, 'Spaceman Scramble'. If you don't know what Spaceman Scramble is, you can find more information [here](https://www.willnobledev.co.uk/projects/spacemanscramble). We'll be taking a look at how the prop placement system evolved today.
 
 # The System
 
