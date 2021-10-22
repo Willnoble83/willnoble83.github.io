@@ -1,8 +1,7 @@
 ---
 layout: project
-title: Yapoi: 2D Game Engine
+title: Yapoi 2D Game Engine
 category: YapoiEngine
-image: /assets/images/projects/3drender/logo.png
 published: true
 imagewidth: 1919
 imageheight: 992
