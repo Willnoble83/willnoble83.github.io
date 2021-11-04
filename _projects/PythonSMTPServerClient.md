@@ -31,5 +31,5 @@ This generates corresponding readable text to go with every SMTP code that the s
 
 This is the code that powers the data capturing process used in various different ways when combined with different commands
 
-[!SMTP DATA Command Handler - Python Code Snippet](/assets/images/projects/datacommand.png)
+[!SMTP DATA Command Handler - Python Code Snippet](/assets/images/projects/smtp/datacommand.png)
 
