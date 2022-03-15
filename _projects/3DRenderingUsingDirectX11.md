@@ -27,5 +27,6 @@ The landscape is created from interpreting information from a heightmap and util
 ![Find Node - C++ Code Snippet](/assets/images/projects/3drender/find_node_function.png)
 
 
-
+# Areas I was responsible for
+This was a solo project. I was responsible for the entirety of the produced program.
 

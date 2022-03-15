@@ -33,3 +33,5 @@ This is the code that powers the data capturing process used in various differen
 
 ![SMTP DATA Command Handler - Python Code Snippet](/assets/images/projects/smtp/datacommand.png)
 
+# Areas I was responsible for
+This project was a solo project. I was responsible for the entirety of the produced program.
