@@ -19,6 +19,7 @@ The source code is able to be viewed at the linked github repository.
 
 No Media is currently available for this project.
 
-
+# Areas I was responsible for
+This is a solo project. I am responsible for all code written.
 
 
